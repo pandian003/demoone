@@ -1,7 +1,6 @@
-new message
-again new message
-gfg
-fgfd
-fdgfd
-dfgfd
-fdgfdg
+<<<<<<< HEAD
+
+=======
+hi
+how are you
+>>>>>>> a0e04df21581e88e68a01a4af4caf2ffc55ef3fb
