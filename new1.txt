@@ -1,2 +1,2 @@
-new message
-again new message
+hi
+how are you
